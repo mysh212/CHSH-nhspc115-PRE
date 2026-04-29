@@ -5,10 +5,10 @@
  - [審題者 ***<font color='#AAAAAA'>Tester</font>***](https://mysh212.github.io/CHSH-nhspc115-PRE/Tester)
  - [測資產生器 ***<font color='#AAAAAA'>Generator</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Generator)
  - [測資驗證器 ***<font color='#AAAAAA'>Validator</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Validator)
- - [測資生成指令 ***<font color='#AAAAAA'>Script</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Script)
+ - [測資生成指令 ***<font color='#AAAAAA'>Script</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Scripts)
  - [題解 ***<font color='#AAAAAA'>Editorial</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Editorial/)
- - [題本](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Problems)
- - [測資 Testcases](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Testcases)
+ - [題本 ***<font color='#AAAAAA'>Statements</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Problems)
+ - [測資  ***<font color='#AAAAAA'>testcases</font>***](https://github.com/mysh212/CHSH-nhspc115-PRE/tree/main/Testcases)
  - [記分板直播](https://youtube.com/live/prVrS0GXyyQ?feature=share)
-   
+
 ***HARC X CHSH***
